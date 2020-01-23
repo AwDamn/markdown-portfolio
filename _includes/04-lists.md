@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Pizza
+- Doggos
+- Coffee
+- These are a few of my favorite things
+  - Test test test
